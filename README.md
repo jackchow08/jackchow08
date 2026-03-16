@@ -1,9 +1,9 @@
 ## Hi there 👋
-## I am a Quantum Researcher currently work for Spin-Q Technology
-## SEA.py is a new project of mine which is a software that control my newly built quantum entanglement educational device 
-## I study my Master of philosophy in HKUST and focus on quantum sensing with NV center
-## deer.py and pulsed_xy8 contols the pulsed sequence to measure different coherence response from the NV center 
-## odmr.py is the typical measurement of magnetic field using NV center
+I am a Quantum Researcher currently work for Spin-Q Technology
+SEA.py is a new project of mine which is a software that control my newly built quantum entanglement educational device 
+I study my Master of philosophy in HKUST and focus on quantum sensing with NV center
+deer.py and pulsed_xy8 contols the pulsed sequence to measure different coherence response from the NV center 
+odmr.py is the typical measurement of magnetic field using NV center
 
 <!--
 **jackchow08/jackchow08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
